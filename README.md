@@ -5,10 +5,10 @@
 
   <img src="public/icona.png" alt="Logo" width="80" height="80">
 
-  <h3 align="center">Car-Auction</h3>
+  <h3 align="center">ReacToD</h3>
 
   <p align="center">
-    Car Auction Made Easy
+    ReacToD Made Easy
     <br />
     <a href="https://github.com/Mehdi-RB26/React-Js"><strong>Explore the docs »</strong></a>
     <br />
@@ -49,7 +49,7 @@
 <br>
 <img src="public/1stpic.png" alt="main page">
 <br>
-We have vehicles for every budget and need – from family mini-vans, to sports cars, The selection varies from week to week, but there are always good, clean, used cars at excellent prices. Capital Auto Auction sells vehicles that are auctioned off by our professional independent auctioneers. The bargains are outrageous!!!
+About The Project About The Project About The Project About The Project About The Project 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -99,25 +99,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 After clicking on the green button (Start now !) on the top right corner in the landing page ! The bidding page will automatically appear
 
-<img src="public/auction1.png" alt="Bidding page">
 
-Like bidding website you must create an account and login to start your day :
-
-<img src="public/Picture3.png" alt="Register modal">
-
-<img src="public/Picture4.png" alt="Login modal">
-
-You will notice that a new button appears in the bidding section so you can add your car if you want to get rid of it of course :D
-
-<img src="public/Picture5.png" alt="Logedin page">
-
-<img src="public/Picture6.png" alt="AddCAR MODAL">
-
-And finally you can see your own cars and also other cars if you want to get a new ride ;)
-
-<img src="public/Picture7.png" alt="Auctioncars page">
-
-<img src="public/Picture8.png" alt="Auctioncars page">
 
 
 
@@ -150,8 +132,6 @@ Distributed under the ISI License.
 
 Kaouachi El Mehdi - kaouachimehdi2@gmail.com
 <br>
-Machmachi Mohamed - machmachimohamed1998@gmail.com
-<br>
 Project Link: https://github.com/Mehdi-RB26/React-Js
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -176,4 +156,4 @@ Project Link: https://github.com/Mehdi-RB26/React-Js
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+
