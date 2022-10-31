@@ -47,8 +47,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <br>
-<img src="public/1stpic.png" alt="main page">
-<br>
 About The Project About The Project About The Project About The Project About The Project 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -113,17 +111,17 @@ After clicking on the green button (Start now !) on the top right corner in the 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Add Live Chat
-- [x] Add Role Managment
+- [x] R1
+- [x] R2
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back To Top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the ISI License.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back To Top</a>)</p>
 
 
 
@@ -132,9 +130,9 @@ Distributed under the ISI License.
 
 Kaouachi El Mehdi - kaouachimehdi2@gmail.com
 <br>
-Project Link: https://github.com/Mehdi-RB26/React-Js
+Project Link: https://github.com/Mehdi-RB26/Reactod
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">Back To Top</a>)</p>
 
 
 
