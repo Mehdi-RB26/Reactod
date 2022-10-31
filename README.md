@@ -3,7 +3,7 @@
 <br />
 <div align="center">
 
-  <img src="public/icona.png" alt="Logo" width="80" height="80">
+  
 
   <h3 align="center">ReacToD</h3>
 
@@ -13,7 +13,7 @@
     <a href="https://github.com/Mehdi-RB26/React-Js"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://carauction69.netlify.app">View Demo</a>
+    <a href="https://google.com">View Demo</a>
   </p>
 </div>
 
